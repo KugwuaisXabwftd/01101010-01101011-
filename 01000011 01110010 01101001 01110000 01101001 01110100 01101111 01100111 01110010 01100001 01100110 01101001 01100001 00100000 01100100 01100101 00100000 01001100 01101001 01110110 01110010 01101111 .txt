@@ -12,3 +12,5 @@
 152:6: letra 19
 28:1: palavra 6
 61:3: palavra 16
+
+após a barra as duas primeiras são maiusculas e as duas ultimas também, o resto é minusculo
