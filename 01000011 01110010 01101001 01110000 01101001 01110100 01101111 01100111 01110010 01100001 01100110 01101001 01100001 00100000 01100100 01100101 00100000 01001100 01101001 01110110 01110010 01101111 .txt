@@ -1,0 +1,14 @@
+171:7: letra 7 
+8:2: letra 26 
+10:2: letra 2 
+8:1: símbolo 1  
+149:1: letra 1 
+49:2: letra 8 
+81:18: palavra 4 
+81:7: letra 8 
+16:5: letra 1 
+85:5: letra 14
+73:4: letra 3 
+152:6: letra 19 
+28:1: palavra 6 
+61:3: palavra 16 
